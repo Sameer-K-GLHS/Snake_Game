@@ -3,7 +3,11 @@ Simple snake game made with pygame
 
 ## Instructions
 1. Run *SnakeGame.exe*
-2. Use 'WASD' to move the snake
+   * If it that does not work
+     * Open the SnakeGame folder on an IDE running **Python 3.8 or higher**.
+     * Run ```pip install -r requirements.txt``` in the terminal
+     * Run *main.py*
+3. Use 'WASD' to move the snake
 
 ## Features
 * Increases speed after reaching certain scores
